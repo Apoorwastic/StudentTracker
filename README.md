@@ -28,7 +28,7 @@ A simple and interactive **Student Tracker** web application that allows users t
 **Backend (Optional):**
 
 - Node.js + Express.js  
-- MongoDB or MySQL  
+- SQLite
 
 **Version Control & Deployment:**
 
@@ -37,26 +37,8 @@ A simple and interactive **Student Tracker** web application that allows users t
 ---
 
 ## Project Structure
-StudentTracker/
-│
-├── frontend/ # React frontend code
-│ ├── public/
-│ ├── src/
-│ │ ├── components/ # Reusable React components
-│ │ ├── pages/ # Pages like StudentsPage, CheckinsPage
-│ │ ├── App.js
-│ │ └── index.js
-│ ├── package.json
-│ └── tailwind.config.js
-│
-├── backend/ (optional) # Backend API code
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── server.js
-│
-├── README.md
-└── .gitignore
+
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/a37390a4-cf7e-4ecf-af5b-55d021f6e9c3" />
 
 
 ---
@@ -64,18 +46,22 @@ StudentTracker/
 ## Screenshots & GIFs
 
 **Homepage / Dashboard**  
-![Dashboard Screenshot](assets/screenshots/dashboard.png)  
+<img width="1917" height="1013" alt="potal students page" src="https://github.com/user-attachments/assets/ef1d2246-d606-4d27-aac8-373c3d540e96" />
+ 
 
 **Add Student Form**  
-![Add Student Screenshot](assets/screenshots/add-student.png)  
+<img width="1918" height="1003" alt="add students" src="https://github.com/user-attachments/assets/b77ac824-b71f-411f-9bf4-d94bb9460147" />
 
-**Students List**  
-![Students List Screenshot](assets/screenshots/students-list.png)  
 
-**Demo GIF (Adding a Student)**  
-![Demo GIF](assets/gifs/add-student-demo.gif)  
+**Check in Management**  
+<img width="1918" height="1006" alt="check in management" src="https://github.com/user-attachments/assets/427b2c34-fdfb-42fc-ba3a-ed47b2749d18" />
+ 
 
-> ⚠️ Replace the above placeholder paths with your actual images/GIFs.
+**(After check in)**  
+<img width="1918" height="1013" alt="after check in" src="https://github.com/user-attachments/assets/e873c39e-5568-45d1-8238-f805e41ec8dd" />
+
+
+
 
 ---
 
