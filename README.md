@@ -1,6 +1,6 @@
 # Student Tracker
 
-A simple and interactive **Student Tracker** web application that allows users to manage and monitor student data efficiently. Built with **React.js** and styled with **Tailwind CSS**, this app provides full CRUD functionality to keep track of student information.
+A simple and interactive **Student Tracker** web application that allows users to manage and monitor student attendance data efficiently. 
 
 ---
 
@@ -23,9 +23,9 @@ A simple and interactive **Student Tracker** web application that allows users t
 - **Bootstrap** *(optional)* – For responsive design and pre-built components.  
 
 ### **Backend**
-- **Python 3.x** – Programming language for backend logic.  
+- **Python 3.4** – Programming language for backend logic.  
 - **Django** – High-level Python web framework for rapid development and clean design.  
-- **Django REST Framework** *(if APIs are used)* – To create RESTful APIs.  
+- **Django REST Framework**  – To create RESTful APIs.  
 
 ### **Database**
 - **SQLite** – Lightweight relational database used by Django for development and testing.  
@@ -44,7 +44,7 @@ A simple and interactive **Student Tracker** web application that allows users t
 
 ## Project Structure
 
-<img width="1024" height="1536" alt="ChatGPT Image Sep 20, 2025, 08_43_48 PM" src="https://github.com/user-attachments/assets/6db1d34d-30c4-4717-ac47-c30135ac3e5b" />
+<img width="1917" height="1013" alt="ChatGPT Image Sep 20, 2025, 08_43_48 PM" src="https://github.com/user-attachments/assets/6db1d34d-30c4-4717-ac47-c30135ac3e5b" />
 
 
 
