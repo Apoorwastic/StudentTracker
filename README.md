@@ -6,29 +6,35 @@ A simple and interactive **Student Tracker** web application that allows users t
 
 ## Features
 
-- **Add Students:** Easily add new student details like name, age, class, and other information.  
+- **Add Students:** Easily add new student details like name, email, unique id(roll no), district, state, country and pincode.  
 - **View Students:** Display all students in a clean and organized table or list format.  
-- **Update Details:** Edit student information whenever needed.  
-- **Delete Students:** Remove students who are no longer relevant.  
-- **Search & Filter:** Quickly find students using search or filter options.  
+- **Check in:** Checks in student with unique Id for attendance.
+- **Check In List:** Keeps a track of the student check in with timing. 
 - **Responsive UI:** Works on both desktop and mobile devices.  
 - **Modern Design:** Clean and intuitive interface for smooth user experience.  
 
 ---
 
-## Tech Stack
+## **Tech Stack Used**
 
-**Frontend:**
+### **Frontend**
+- **HTML5 & CSS3** – Markup and styling for web pages.  
+- **JavaScript** – For interactivity and dynamic content.  
+- **Bootstrap** *(optional)* – For responsive design and pre-built components.  
 
-- React.js  
-- Tailwind CSS  
-- JavaScript (ES6+)  
-- HTML5 & CSS3  
+### **Backend**
+- **Python 3.x** – Programming language for backend logic.  
+- **Django** – High-level Python web framework for rapid development and clean design.  
+- **Django REST Framework** *(if APIs are used)* – To create RESTful APIs.  
 
-**Backend (Optional):**
+### **Database**
+- **SQLite** – Lightweight relational database used by Django for development and testing.  
 
-- Node.js + Express.js  
-- SQLite
+### **Tools & Utilities**
+- **VSCode / PyCharm** – Code editor for development.  
+- **Git & GitHub** – Version control and code hosting.  
+- **Postman** – API testing (if APIs are implemented).  
+- **Python virtual environment (venv)** – To manage project dependencies.  
 
 **Version Control & Deployment:**
 
@@ -38,7 +44,8 @@ A simple and interactive **Student Tracker** web application that allows users t
 
 ## Project Structure
 
-<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/a37390a4-cf7e-4ecf-af5b-55d021f6e9c3" />
+<img width="1024" height="1536" alt="ChatGPT Image Sep 20, 2025, 08_43_48 PM" src="https://github.com/user-attachments/assets/6db1d34d-30c4-4717-ac47-c30135ac3e5b" />
+
 
 
 ---
